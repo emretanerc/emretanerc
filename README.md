@@ -40,6 +40,4 @@
 <a href="https://play.google.com/store/apps/developer?id=ETC+Mobile+Apps" target="blank"><img align="center" src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" alt="Play Store" /></a>
 </p>
 
-### 🎧 Now Playing
 
-[<p align="center"> <img src="https://spotify-readme-stat.vercel.app/api/run-spotify-status" alt="Playing Now" width="600" /></p>](https://open.spotify.com/user/emretanerc)
