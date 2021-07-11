@@ -13,7 +13,7 @@
 <p align="center">
 <a href="https://github.com/Adem68">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=emretanerc&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="adem68"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adem68&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="adem68"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emretanerc&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="adem68"/>
 </a>
 </p>
 
