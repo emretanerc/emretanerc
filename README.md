@@ -3,7 +3,7 @@
 
 
 ### 🛠 Tech Stack
-![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows)&nbsp;
