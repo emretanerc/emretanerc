@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adem</h1>
-<h3 align="center">Developer (20y) from Istanbul</h3>
+<h1 align="center">Hi 👋, I'm Emre Taner Çetinkaya</h1>
+
 
 
 ### 🛠 Tech Stack
