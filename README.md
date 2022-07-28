@@ -3,6 +3,7 @@
 
 
 ### 🛠 Tech Stack
+![Swift](https://img.shields.io/badge/Swift-%2302569B.svg?style=for-the-badge&logo=Swift&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-02569B?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 ![Visual Studio Code](	https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
